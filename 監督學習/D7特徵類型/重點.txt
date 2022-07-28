@@ -1,0 +1,5 @@
+訓練資料與測試資料找出 train_x train_y test_x test_y (train_x train_y : 回家作業與解答) (test_x test_y : 考試題目與解答)
+1.將訓練資料 拆成 題目與解答 
+2.測試資料同上
+3.拆完後將題目合併，並做特徵分析 
+4.找出三大型態列別，求出lable中的 mean() 、 max () 、 nunique() # nunique 是整條row中，count不一樣的值(唯一) 
